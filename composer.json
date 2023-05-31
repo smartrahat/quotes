@@ -1,0 +1,20 @@
+{
+    "name": "smartrahat/inspire",
+    "description": "Show random inspiration quote",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "7.7.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smartrahat\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammed Rahat Hossain"
+        }
+    ],
+    "minimum-stability": "dev"
+}
